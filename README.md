@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 💫 Acerca de mí:
 ----------------
 
-* 🌍  I'm based in spain
-* 🧠  I'm learning datan scienci
+* 🧠  I'm learning datan science
 
 ### Skills
 
