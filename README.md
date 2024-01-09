@@ -34,7 +34,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <br>
-        <strong>Visit my personal website </strong>
     </td>
   </tr>
 </table>
