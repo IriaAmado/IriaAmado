@@ -6,8 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🧠  I'm learning datan science
 
-  🚀 Skills
-Python Pandas Numpy Plotly Git OpenAI Streamlit Scikit Scipy Google Colab Selenium VS Code SQL Jupyter Power BI Docker
+
 
 ### Skills
 
